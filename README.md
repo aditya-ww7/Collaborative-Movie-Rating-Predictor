@@ -1,2 +1,2 @@
 # Stacked-Auto-Encoder
-Implementation of stacked AutoEncoder to predict user-dynamic ratings for unwatched movies.
+Implementation of Stacked AutoEncoders to predict user-dynamic ratings for unwatched movies using collaborative filtering.
